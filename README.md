@@ -13,8 +13,8 @@ Next to all of that I teach Programming and the chops of software development to
 
 You can run into me on hiking trails when when I'm not doing any of the above.
 
-Check my Github: https://github.com/hendrikpetertje/
-private Gitlab for more info: https://git.hendrikpeter.net/
+Check my Github: https://github.com/hendrikpetertje/  
+private Gitlab for more info: https://git.hendrikpeter.net/  
 You could even take a look at my homepage while you're at it: https://hendrikpeter.net
 
 I shoot pretty epic picures too, check out my Unsplash profile for some aerial eye-candy at https://unsplash.com/@hendrikpeter
