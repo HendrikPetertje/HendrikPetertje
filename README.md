@@ -1,7 +1,7 @@
 👋 Hi, I’m @HendrikPetertje or Peter for those that like it short
 
 Originally I'm from the Netherlands where I grew up. 
-After attempting life in microbiology, studying Graphic design, Multimedia development and having had my own company for a while, I ended up In "North" Sweden where I work for a nice company called Dewire. 
+After attempting life in microbiology, studying Graphic design, Multimedia development and having had my own company for a while, I ended up In "North" Sweden where I work for a nice company called Knightec Group - Softawre & Cloud. 
 
 I spend most of my time working with front-end and back-end development and use tools like Javascript/Typescript, SQL, Elixir, Ruby, some Python, AWS, Azure and the usual GxP/GMP lingo around Med-Tech
 I even have a podcast about it where my colleagues and I share what we are working on! check it out over at [knightsonwires.knightec.se](https://knightsonwires.knightec.se/)
