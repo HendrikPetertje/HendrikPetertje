@@ -27,7 +27,7 @@ I like owning the code that I make and publicize it myself. I've always been sup
 
 **The last couple of months and weeks have been pretty wild.**  
 I woke up about 2 months ago to notifications of ai crawlers ignoring my robots.txt settings and downloading and re-downloading files from my server to the tune of **several Terrabytes per day or sometimes even per hour**. I honestly don't understand how a LLM Model would be smarter when downloading the same file 50k times per minute over the course of several hours (spreading those download over thousands of different source IPs).
-I moved my git server behind cloudflare and that got rid of some, but not all of it. I don't think that i'm some kin of online influencer, so the 50k legit looking page visits every hour are probably just crawlers getting around Cloudflare's rules and honeypots and stuff.
+I moved my git server behind cloudflare and that got rid of some, but not all of it. I don't think that i'm some kind of online influencer, so the 50k legit looking page visits every hour are probably just crawlers getting around Cloudflare's rules and honeypots and stuff.
 
 I've also not been living under a rock. gitlab has seen 12 major security problems fixed in the last 4 weeks alone, for 2 of which I had to get ACT NOW text messages.
 
