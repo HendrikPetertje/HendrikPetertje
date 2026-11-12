@@ -19,7 +19,7 @@ You could even take a look at my homepage while you're at it: https://hendrikpet
 
 I'd love to talk about Vim by the way, you can chat me up at any time of the day. ;)
 
-** Security note **
+**Security Note**. 
 A lot of pull requests were opened in my name on Nov 11 2026 and in some places github actions workflows were added/edited and removed. 
 These events were linked to [a CI secret stealer campaign](https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html).
 
