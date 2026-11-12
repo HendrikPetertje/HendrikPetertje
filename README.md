@@ -14,22 +14,18 @@ Next to all of that I teach Programming and the chops of software development to
 
 You can run into me on hiking trails when when I'm not doing any of the above.
 
-Check my Github: https://github.com/hendrikpetertje/  
-private Gitlab for more info: https://git.hendrikpeter.net/  
+I shoot pretty epic Picures too, check out my Unsplash profile for some aerial eye-candy at https://unsplash.com/@hendrikpeter.
 You could even take a look at my homepage while you're at it: https://hendrikpeter.net
-
-I shoot pretty epic picures too, check out my Unsplash profile for some aerial eye-candy at https://unsplash.com/@hendrikpeter
 
 I'd love to talk about Vim by the way, you can chat me up at any time of the day. ;)
 
-## NOTE about git.hendrikpeter.net
-I like owning the code that I make and publicize it myself. I've always been super happy with the different versions of my little private git server I have had over the years and self-hosted Gitlab in general has been my go-to for over a decade. I still got a recently updated pi sitting on my desk ready for my next trip when I go teach programming out in areas on this planet where access to electricity and internet are considered "brown", and having that little raspberry pi is the means of having a local cached package registry + VCM for my students so we can do our courses uninterupted.
+** Security note **
+A lot of pull requests were opened in my name on Nov 11 2026 and in some places github actions workflows were added/edited and removed. 
+These events were linked to [a CI secret stealer campaign](https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html).
 
-**The last couple of months and weeks have been pretty wild.**  
-I woke up about 2 months ago to notifications of ai crawlers ignoring my robots.txt settings and downloading and re-downloading files from my server to the tune of **several Terrabytes per day or sometimes even per hour**. I honestly don't understand how a LLM Model would be smarter when downloading the same file 50k times per minute over the course of several hours (spreading those download over thousands of different source IPs).
-I moved my git server behind cloudflare and that got rid of some, but not all of it. I don't think that i'm some kind of online influencer, so the 50k legit looking page visits every hour are probably just crawlers getting around Cloudflare's rules and honeypots and stuff.
+The source of all of it is an old Private Github key with repository access that'd I'd created long ago for some scripts. I thought i had rotated the key, but sadly that was not the case.
+I have now rotated all my keys, app integrations, access requests, ssh keys, etc to my Github account and pretty much all other cloud accounts and credentials that I own just in case.
 
-I've also not been living under a rock. gitlab has seen 12 major security problems fixed in the last 4 weeks alone, for 2 of which I had to get ACT NOW text messages.
+Luckily none of the repos I had myself or had access to had any working secrets exported in Github actions, the private repos i had access to were either harmless pet project experiments and my dev-training homework repo. So I seem to have dodged a bullet.
 
-It feels like the age of building, owning and hosting your own cool stuff is over for a little while. I'm thankful that cloudflare exists and safes me from bankrupting myself on data transfer bills.
-My private git server is out on a holiday for a while. If you need git ssh access poke me, if you need to access its web interface and you can't then poke me here on github on the https://github.com/HendrikPetertje/HendrikPetertje repo and i'll see what i can do.
+Sorry for the PRs and workflows that were created in my name. 
